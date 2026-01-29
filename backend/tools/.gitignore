@@ -1,0 +1,6 @@
+# Ignore sensitive files
+.env
+*.pyc
+__pycache__/
+*.csv
+*.csv.gz
