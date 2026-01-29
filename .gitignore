@@ -9,6 +9,5 @@ wheels/
 # Virtual environments
 .venv
 *.csv
-*.txt
 *.json
 *.DS_Store
